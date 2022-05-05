@@ -4,7 +4,7 @@
 
 Este foi um desafio solicitado pelo Curso da Cubos Academy - Desenvolvimento de Software. Foi solicitado a construção de uma API Bancária com diversas rotas.
 
-###eu papel é construir uma RESTful API que permita:
+**O objetivo é construir uma RESTful API que permita:**
 
 -   Criar conta bancária
 -   Listar contas bancárias
