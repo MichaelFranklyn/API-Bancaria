@@ -2,7 +2,7 @@
 
 # API Bancária
 
-Este foi um desafio solicitado pelo Curso da Cubos Academy - Desenvolvimento de Software. Foi solicitado a construção de uma API Bancária com diversas rotas.
+Este foi um desafio solicitado pelo Curso da Cubos Academy - Desenvolvimento de Software. Cujo objetivo era a construção de uma API Bancária com diversas rotas e funcionalidades. A linguagem utilizada foi Javascript.
 
 **O objetivo é construir uma RESTful API que permita:**
 
